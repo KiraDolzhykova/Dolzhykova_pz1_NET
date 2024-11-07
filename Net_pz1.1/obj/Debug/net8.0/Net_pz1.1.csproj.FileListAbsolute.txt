@@ -1,0 +1,14 @@
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/bin/Debug/net8.0/Net_pz1.1
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/bin/Debug/net8.0/Net_pz1.1.deps.json
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/bin/Debug/net8.0/Net_pz1.1.runtimeconfig.json
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/bin/Debug/net8.0/Net_pz1.1.dll
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/bin/Debug/net8.0/Net_pz1.1.pdb
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.AssemblyInfoInputs.cache
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.AssemblyInfo.cs
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.csproj.CoreCompileInputs.cache
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.dll
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/refint/Net_pz1.1.dll
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.pdb
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/Net_pz1.1.genruntimeconfig.cache
+/Users/dolzikovakira/Documents/University/NET Core/Net/Net_pz1.1/obj/Debug/net8.0/ref/Net_pz1.1.dll
